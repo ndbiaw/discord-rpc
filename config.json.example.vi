@@ -1,0 +1,14 @@
+{
+	"first": "Văn Bản Hiển Thị Ở Dòng Đầu Tiên",
+	"second": "Văn Bản Hiển Thị Ở Dòng Thứ Hai",
+	"largei": "Tên Của Hình Ảnh Bạn Đã Thêm Ở Rich Presence Art Assets",
+	"larget": "Văn Bản Hiển Thị Khi Di Chuột Ở Trên Hình Ảnh",
+	"smalli": "Tên Của Hình Ảnh Bạn Đã Thêm Ở Rich Presence Art Assets",
+	"smallt": "Văn Bản Hiển Thị Khi Di Chuột Ở Trên Hình Ảnh",
+  "buttf": "Văn Bản Hiển Thị Ở Trên Nút Đầu Tiên",
+  "urlf": "Liên Kết Sẽ Chuyển Hướng Khi Nhấn Vào Nút Đầu Tiên",
+  "butts": "Văn Bản Hiển Thị Ở Trên Nút Thứ Hai",
+  "urls": "Liên Kết Sẽ Chuyển Hướng Khi Nhấn Vào Nút Đầu Tiên",
+  "id": "CLIENT ID Trong Mục OAuth2 Của Ứng Dụng Bạn Đã Tạo",
+  "key": "CLIENT SECRET Trong Mục OAuth2 Của Ứng Dụng Bạn Đã Tạo"
+}
