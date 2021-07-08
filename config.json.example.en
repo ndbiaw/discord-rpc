@@ -1,0 +1,14 @@
+{
+"first": "Text Displayed On First Line",
+"second": "Text Displayed On Second Line",
+"largei": "The Name Of The Image You Added In Rich Presence Art Assets",
+"larget": "Text Displayed When Hover Mouse Over Image",
+"smalli": "The Name Of The Image You Added In Rich Presence Art Assets",
+"smallt": "Text Displayed When Hover Mouse Over Image",
+  "buttf": "Text Displayed On First Button",
+  "urlf": "Link Will Redirect When Clicking On First Button",
+  "butts": "Text Displayed On Second Button",
+  "urls": "Link Will Redirect When Clicking On Second Button",
+  "id": "CLIENT ID In OAuth2 Section Of The App You Created",
+  "key": "CLIENT SECRET In OAuth2 Section Of The App You Created"
+}
