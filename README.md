@@ -14,7 +14,8 @@
 3. Download this repository: [Click Here To Download](https://github.com/ndbiaw/discord-rpc/archive/refs/heads/main.zip "ndbiaw discord rpc").
 4. Unzip the archive.
 5. Double-click the `setup.bat` file, wait for the installation to complete.
-6. Edit the file `config.json.example.vi` and save it.
-7. Rename the file `config.json.example.vi` to `config.json`.
+6. Edit the file `config.json.example.en` and save it.
+7. Rename the file `config.json.example.en` to `config.json`.
 8. Double click the `run.bat` file, check your profile activity!
 9. From now on, to launch discord rpc you just need to open the file `run.bat`, to change the display parameter you just need to edit it at `config.json`!
+**I'm lazy so I used Google Translate to create the tutorial in English, you can make a pull request if you want.**
