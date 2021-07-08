@@ -9,7 +9,7 @@ client.on('ready', () => {
         pid: process.pid,
         activity: {
             details: `${config.first}`,
-            state: `${config.second}`
+            state: `${config.second}`,
             timestamps: {
                 start: Date.now()
             },
