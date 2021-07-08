@@ -1,4 +1,5 @@
 const RPC = require('discord-rpc');
+const config = require('./config.json');
 const client = new RPC.Client({
     transport: 'ipc'
 });
@@ -7,26 +8,26 @@ client.on('ready', () => {
     client.request('SET_ACTIVITY', {
         pid: process.pid,
         activity: {
-            details: "Large Text",
-            state: "Small Text",
+            details: `${config.first}`,
+            state: `${config.second}`
             timestamps: {
                 start: Date.now()
             },
             assets: {
-                large_image: "NAME",
-                large_text: "Large Text",
-                small_image: "NAME",
-                small_text: "Small Text"
+                large_image: `${config.largei}`,
+                large_text: `${config.larget}`,
+                small_image: `${config.smalli}`,
+                small_text: `${config.smallt}`
             },
             buttons: [
-                { label: "Button 1", url: "URL 1" },
-                { label: "Button 2", url: "URL 2" }
+                { label: `${config.buttf}`, url: `${config.urlf}` },
+                { label: `${config.butts}`, url: `${config.urls}` }
             ]
         }
     });
 });
 
 client.login({
-    clientId: 'ID',
-    clientSecret: 'KEY'
+    clientId: `${config.id}`,
+    clientSecret: `${config.key}`
 });
