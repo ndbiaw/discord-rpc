@@ -18,4 +18,4 @@
 7. Rename the file `config.json.example.en` to `config.json`.
 8. Double click the `run.bat` file, check your profile activity!
 9. From now on, to launch discord rpc you just need to open the file `run.bat`, to change the display parameter you just need to edit it at `config.json`!
-**I'm lazy so I used Google Translate to create the tutorial in English, you can make a pull request if you want.**
+ **I'm lazy so I used Google Translate to create the tutorial in English, you can make a pull request if you want.**
